@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 Welcome to my Github page!
-</div>
+<br>
 I'm currently changing my career from Fashion Designer to Software Engineer.
-</div>
+<br>
 My interests are mostly leaned to design which explains why I'm learning UX/UI.
 
 
@@ -31,14 +31,13 @@ Here are some ideas to get you started:
 
 # Languages:
 🇺🇸 American English
-</div>
+<br>
 🇨🇳 Mandarin Chinese
-</div>
+<br>
 🇧🇷 Brazilian Portuguese (native speaker)
-</div>
+<br>
 🇰🇷 Korean
-</div>
-Spanish
+<br>
 🇪🇸 Spanish
 
 
