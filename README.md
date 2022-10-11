@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to my Github page!
 <br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/111386564/194357827-53ba161f-a2a1-48a4-a05d-415d5d6cdcc0.png)
 
-# Languages:
+## Languages:
 🇺🇸 American English
 <br>
 🇨🇳 Mandarin Chinese
