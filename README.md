@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Get Next Line**
 - 🌱 I’m currently learning **C** and **UX/UI**
 
-**_Projects_**:
+**_42 Projects_**:
 
 **Phase 01:**
 
