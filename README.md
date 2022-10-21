@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Get Next Line**
+- 🔭 I’m currently working on **ft_printf**
 - 🌱 I’m currently learning **C** and **UX/UI**
 
 **_42 Projects_**:
