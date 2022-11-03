@@ -12,7 +12,7 @@ My interests are mostly leaned to design which explains why I'm learning UX/UI.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Get Next Line
+- 🔭 I’m currently working on Get Next L
 - 🌱 I’m currently learning C and UX/UI
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **ft_printf**
+- 🔭 I’m currently working on **Born2beroot**
 - 🌱 I’m currently learning **C** and **UX/UI**
 
 **_42 Projects_**:
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/111386564/194357827-53ba161f-a2a1-48a4-a05d-415d5d6cdcc0.png)
 ![image](https://user-images.githubusercontent.com/111386564/197251711-b64a00b5-5968-4b67-bb37-469eb4fb65f4.png)
+![image](https://user-images.githubusercontent.com/111386564/199852070-d9fd0f0b-b332-49d9-8e4f-d12aabfe11db.png)
+
 
 ## Languages:
 🇺🇸 American English
