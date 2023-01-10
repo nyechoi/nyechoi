@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Born2beroot**
+- 🔭 I’m currently working on **FdF**
 - 🌱 I’m currently learning **C** and **UX/UI**
 
 **_42 Projects_**:
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/111386564/194357827-53ba161f-a2a1-48a4-a05d-415d5d6cdcc0.png)
 ![image](https://user-images.githubusercontent.com/111386564/197251711-b64a00b5-5968-4b67-bb37-469eb4fb65f4.png)
 ![image](https://user-images.githubusercontent.com/111386564/199852070-d9fd0f0b-b332-49d9-8e4f-d12aabfe11db.png)
+![image](https://user-images.githubusercontent.com/111386564/211577080-a6725e42-b44f-4aa9-aa71-9c0919a4dbf7.png)
 
 
 ## Languages:
